@@ -1,0 +1,22 @@
+{
+  "name": "mini_editor",
+  "version": "1.0.0",
+  "description": "mini editor de codigo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickHeiisen/mini_editor.git"
+  },
+  "author": "Patrick G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrickHeiisen/mini_editor/issues"
+  },
+  "homepage": "https://github.com/PatrickHeiisen/mini_editor#readme",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  }
+}
