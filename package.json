@@ -18,5 +18,8 @@
   "homepage": "https://github.com/PatrickHeiisen/mini_editor#readme",
   "devDependencies": {
     "electron": "^35.2.1"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
   }
 }
